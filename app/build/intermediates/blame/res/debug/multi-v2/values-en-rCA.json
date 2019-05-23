@@ -1,0 +1,43 @@
+{
+    "logs": [
+        {
+            "outputFile": "/Users/monashamsolebad/AndroidStudioProjects/MaterialMe-Starter/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-en-rCA/values-en-rCA.xml",
+            "map": [
+                {
+                    "source": "/Users/monashamsolebad/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/cd2bbfd1e2ffec9fe2e4ef82c831db4f/res/values-en-rCA/values-en-rCA.xml",
+                    "from": {
+                        "startLines": "-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1",
+                        "startColumns": "-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1",
+                        "startOffsets": "-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1"
+                    },
+                    "to": {
+                        "startLines": "41,42,43,44,45,46,47,48,49,50,51,52,53,54,55,56,57,60",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "1613,1717,1817,1925,2009,2109,2224,2301,2377,2459,2562,2666,2765,2870,2973,3077,3233,3433",
+                        "endColumns": "103,99,107,83,99,114,76,75,81,102,103,98,104,102,103,155,99,81",
+                        "endOffsets": "1712,1812,1920,2004,2104,2219,2296,2372,2454,2557,2661,2760,2865,2968,3072,3228,3328,3510"
+                    }
+                },
+                {
+                    "source": "/Users/monashamsolebad/AndroidStudioProjects/MaterialMe-Starter/app/src/main/res/values-en-rCA/strings.xml",
+                    "from": {
+                        "startLines": "34,21,7,2,4,5,3",
+                        "startColumns": "4,4,4,4,4,4,4",
+                        "startOffsets": "1262,667,278,55,157,207,105",
+                        "endLines": "46,33,19,2,4,5,3",
+                        "endColumns": "12,19,19,49,49,69,51",
+                        "endOffsets": "1782,1257,661,100,202,272,152"
+                    },
+                    "to": {
+                        "startLines": "2,15,28,58,59,61,62",
+                        "startColumns": "4,4,4,4,4,4,4",
+                        "startOffsets": "105,630,1225,3333,3383,3515,3585",
+                        "endLines": "14,27,40,58,59,61,62",
+                        "endColumns": "12,19,19,49,49,69,51",
+                        "endOffsets": "625,1220,1608,3378,3428,3580,3632"
+                    }
+                }
+            ]
+        }
+    ]
+}
